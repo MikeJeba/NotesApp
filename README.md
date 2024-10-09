@@ -37,9 +37,17 @@
 
 6.1 [Onboard](#onboard)
 
-6.2 [Workout Completion](#workout)
+6.2 [Workout Completion](#workoutcom)
 
 6.3 [Specific Workout Completion](#specific)
+
+6.4 [Game Completion](#gamebad)
+
+6.5 [One Week Program](#one)
+
+6.6 [Two Week Program](#two)
+
+6.7 [Meal Customization](#mealbad)
 
 8. [Setting](#setting) 
 
