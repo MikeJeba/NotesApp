@@ -16,7 +16,15 @@
 2.4. [App Menus](#menu)
 
 3. [Workout](#workout)
-   
+
+3.1. [Accessing Weekly Workout](#work_access)
+
+3.2. [Workout Progress](#workpro)
+
+3.2.1 [Start a Workout](#hts)
+
+3.2.2 [Workout Progress](#wpf)
+
 3.1. [Workout Progress](#workout_pro)
 
 4. [Meal](#meal)
