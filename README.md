@@ -35,11 +35,11 @@
 
 4.1 [Accessing the Meals](#atmp)
 
-4.2 [Meal Details](md)
+4.2 [Meal Details](#md)
 
-4.3 [Meal Personalization](mp)
+4.3 [Meal Personalization](#mp)
 
-4.4 [Food Preferences](fp)
+4.4 [Food Preferences](#fp)
 
 5. [Game](#game)
 
