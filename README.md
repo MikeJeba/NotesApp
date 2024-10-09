@@ -21,6 +21,7 @@ _Last updated: July 23, 2024_
 Version : V1.0.0
 
 <div id="sign"></div>
+
 ## 1. Signup & Login
 
 ## Welcome to Vitalit Application
