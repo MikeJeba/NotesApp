@@ -37,7 +37,7 @@
 
 6.1 [Onboard](#onboard)
 
-6.2 [Workout Completion](#workoutcom)
+6.2 [Workout Completion](#workout)
 
 6.3 [Specific Workout Completion](#specific)
 
@@ -710,7 +710,7 @@ By following these steps, you can personalize your weekly meal plan effectively,
 
 ![You're](https://fabulous50s-workout-manger-docs.vercel.app/img/reward/badge_2.jpeg)
 
-<div id = "workout"></div>
+<div id = "workoutcom"></div>
 
 ### Workout Completion Category
 
@@ -742,6 +742,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 
 ![Endurance](https://fabulous50s-workout-manger-docs.vercel.app/img/reward/badge_6.jpeg)
 
+<div id = "gamebad"></div>
+
 ### Game Completion Category
 
 - **Brain Training Prodigy**: Achieve a score of 1024 in the 2048 game to earn the "Brain Training Prodigy" reward. You can share the reward with friends to celebrate your cognitive skills and progress.
@@ -764,6 +766,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 
 ![line](https://fabulous50s-workout-manger-docs-1bt8se0u8.vercel.app/img/reward/badge_14.jpeg)
 
+<div id = "one"></div>
+
 ### One Week Program Category
 
 - **Keep going,you're doing great!**: Complete at least 7 exercises in your chosen workout template to earn the "Keep Going, You're Doing Great" reward, motivating you to stay dedicated and engaged in your fitness journey.
@@ -777,6 +781,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 - **Habit hero**: Achieve at least 90% completion of your workout template within a week to earn the "Habit Hero" reward, reinforcing your commitment to fitness and encouraging long-term adherence to your routine.
 
 ![habit](https://fabulous50s-workout-manger-docs-1bt8se0u8.vercel.app/img/reward/badge_17.jpeg)
+
+<div id = "two"></div>
 
 ### Two Week Program Category
 
@@ -792,6 +798,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 
 ![effort](https://fabulous50s-workout-manger-docs-1bt8se0u8.vercel.app/img/reward/badge_19.jpeg)
 
+<div id="mealbad"></div>
+
 ### Meal Customization Category
 
 - **Nutrition Navigator**: Earn the "Nutrition Navigator" reward by designing a meal with a high protein content and around 400 calories, encouraging nutritious choices and supporting your overall health and fitness goals.
@@ -801,6 +809,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 - **Diet Devotee**: Customize your meal two or more times using the "Personalize" button to earn the "Diet Devotee" reward, motivating you to take control of your nutrition and create personalized meal plans.
 
 ![diet](https://fabulous50s-workout-manger-docs-1bt8se0u8.vercel.app/img/reward/badge_22.jpeg)
+
+<div id="streakbad"></div>
 
 ### Streak Category
 
@@ -836,6 +846,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 
 ![6](https://fabulous50s-workout-manger-docs-1bt8se0u8.vercel.app/img/reward/badge_27.jpeg)
 
+<div id="track"></div>
+
 ### Track User Workout Time Category
 
 - **1% Better than yesterday**: Work out for a longer duration than you did yesterday to earn the "1% Better Than Yesterday" reward, celebrating your progress and motivating you to keep striving for improvement.
@@ -847,11 +859,14 @@ By following these steps, you can personalize your weekly meal plan effectively,
 ![star](https://fabulous50s-workout-manger-docs-1bt8se0u8.vercel.app/img/reward/badge_30.jpeg)
 
 <div id="setting"></div>
-7. Settings
+
+## 7. Settings
 
 Manage your account settings and preferences here.
 
 ![Settings image](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/settings.jpg)
+
+<div id="account"></div>
 
 ## Account
 
@@ -860,6 +875,7 @@ Manage your account settings and preferences here.
 - **Profile**: View and manage your profile details.
 - **Account Details**: Access and update your account information.
 
+<div id="delete"></div>
 
 ## Delete Account
 
@@ -877,6 +893,7 @@ Manage your account settings and preferences here.
 
 ![Delete Account1 image](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/delete_account1.jpg)
 
+<div id = "pri"></div>
 
 ## Privacy
 
@@ -886,11 +903,15 @@ Manage your account settings and preferences here.
 
 ![Privacy image](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/privacy.jpg)
 
+<div id="hel"></div>
+
 ## Help & Documentation
 
 ### User Manual
 
 - [**User Manual**](https://fabulous50s-workout-manger-docs.vercel.app/docs/category/app---user-guide): Access the user manual for detailed instructions and guidance on using the Vitalit App.
+
+<div id = "log"></div>
 
 ## Logout
 
