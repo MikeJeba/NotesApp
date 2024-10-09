@@ -25,7 +25,11 @@
 
 3.2.2 [Workout Progress](#wpf)
 
-3.1. [Workout Progress](#workout_pro)
+3.3 [Workout Completion](#wc)
+
+3.4 [Template Customization](#temp)
+
+3.5 [Workout Customization](#wcust)
 
 4. [Meal](#meal)
 
