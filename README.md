@@ -10,6 +10,9 @@
 9. [Workout Progress](#workout_pro) //subheading
 10. [Meal](#meal) //heading
 11. [Game](#game) //heading
+12. [Rewards](#reward) //heading
+13. [Setting](#setting) 
+
 
 ## App User Guide
 
@@ -561,9 +564,8 @@ Choose the day of the week to generate a personalized meal plan. By default, all
 By following these steps, you can personalize your weekly meal plan effectively, ensuring that each meal meets your nutritional needs and aligns with your dietary preferences and goals.
 
 <div id="game"></div>
-## 5. Game
+5. Game
 
-<div id="game_1"></div>
 ### 2048
 
 - **2048**: Swipe in any direction to move tiles. Merge matching tiles to create larger numbers. Earn points with each merge. Keep playing until you reach 1024 to unlock the Brain Training Prodigy reward!
@@ -613,7 +615,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 ### Play Screen
 ![wordplay](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/word/3.jpeg)
 
-## 6. Rewards
+<div id="reward"></div>
+6. Rewards
 
 ### Onboard Category
 
@@ -757,7 +760,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 
 ![star](https://fabulous50s-workout-manger-docs-1bt8se0u8.vercel.app/img/reward/badge_30.jpeg)
 
-## 7. Settings
+<div id="setting"></div>
+7. Settings
 
 Manage your account settings and preferences here.
 
