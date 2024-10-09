@@ -49,7 +49,21 @@
 
 6.7 [Meal Customization](#mealbad)
 
-8. [Setting](#setting) 
+6.8 [Streak](#streakbad)
+
+6.9 [Track User Workout Time](#track)
+
+7. [Setting](#setting)
+
+7.1. [View Account](#account)
+
+7.2. [Delete Account](#delete)
+
+7.3. [Privacy](#pri)
+
+7.4. [Help](#hel)
+
+7.5. [Logout](log)
 
 ## App User Guide
 
