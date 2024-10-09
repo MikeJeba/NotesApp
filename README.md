@@ -219,6 +219,8 @@ By using the Dashboard, you can effectively manage your daily fitness and nutrit
 
 Welcome to the Workout section of the Vitalit App. This guide will help you understand how to manage and personalize your workouts to achieve your fitness goals efficiently. Whether you are a beginner or a seasoned athlete, the Vitalit App offers a structured and flexible workout schedule tailored to your needs.
 
+<div id = "work_access"></div>
+
 ## Accessing the Weekly Workout Page
 
 To get started with managing your workouts, follow these steps:
@@ -247,9 +249,13 @@ The Weekly Workout Page is designed to provide a clear and organized overview of
 
 By following these instructions, you can effectively navigate and utilize the Workout section of the Vitalit App, making it easier to stay committed to your fitness journey.
 
+<div id="workpro"></div>
+
 ## Workout Progress
 
 This guide explains how to start and manage your workout using the Vitalit App.
+
+<div id="hts"></div>
 
 ## How to Start a Workout
 
@@ -267,6 +273,8 @@ This guide explains how to start and manage your workout using the Vitalit App.
 Once you select a workout, you will be redirected to the **Workout Progress**.
 
 **Note**: Spotify not working in IOS device.
+
+<div id="wpf"></div>
 
 ## Workout Progress Features
 
@@ -296,6 +304,8 @@ Once you select a workout, you will be redirected to the **Workout Progress**.
 1. **Next Exercise**: When you finish an exercise, the app will automatically move to the next exercise.
 2. **Manual Completion**: Alternatively, you can click "Completed" to manually move to the next exercise.
 
+<div id="wc"></div>
+
 ## Workout Completion
 
 ### Completed Page
@@ -317,6 +327,8 @@ When all exercises in the workout are completed, you will be redirected to the *
 
 
 By following this guide, you can effectively start, manage, and complete your workouts using the Vitalit App. Enjoy your fitness journey with seamless music integration and easy navigation between workouts.
+
+<div id="temp"></div>
 
 ## Template Customization
 
@@ -385,6 +397,8 @@ This guide explains how to create and personalize your favorite workouts using t
 
 By following these steps, you can easily create and customize your own workout plan for the week, ensuring your fitness routine aligns with your goals and preferences.
 
+<div id = "wcust"></div>
+
 ## Workout Customization
 
 This guide explains how to personalize your workout routine using the Vitalit App.
@@ -434,7 +448,7 @@ This guide explains how to personalize your workout routine using the Vitalit Ap
 
 By following these steps, you can effectively customize your workout routine using the Vitalit App, making your fitness journey more personalized and enjoyable.
 
-<div id="meal"></div>
+<div id="mealpage"></div>
 
 ## 4. Meal
 
