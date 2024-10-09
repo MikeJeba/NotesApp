@@ -1,18 +1,47 @@
 # Table of Contents
 1. [Signup & Login](#sign) 
+
 1.1. [Sign up with Google](#google)
+
 1.2. [Sign up with Apple](#apple)
 
-4. [Dashboard](#dash) //heading
-5. [Today's Workout](#work) //subheading
-6. [Today's Meal](#meal) //subheading
-7. [App Menus](#menu) //subheading
-8. [Workout](#workout) //heading
-9. [Workout Progress](#workout_pro) //subheading
-10. [Meal](#meal) //heading
-11. [Game](#game) //heading
-12. [Rewards](#reward) //heading
-13. [Setting](#setting) 
+2. [Dashboard](#dash)
+
+2.1. [Today's Workout](#work)
+
+2.2. [Today's Meal](#meal)
+
+2.3. [Game](#dashgame)
+
+2.4. [App Menus](#menu)
+
+3. [Workout](#workout)
+   
+3.1. [Workout Progress](#workout_pro)
+
+4. [Meal](#meal)
+
+5. [Game](#game)
+
+5.1 [2048](#2048)
+
+5.2 [Block Drop](#block)
+
+5.3 [Flip Card](#flip)
+
+5.4 [Mastermind](#master)
+
+5.5 [Word Wizard](#word)
+
+6. [Rewards](#reward)
+
+6.1 [Onboard](#onboard)
+
+6.2 [Workout Completion](#workout)
+
+6.3 [Specific Workout Completion](#specific)
+
+8. [Setting](#setting) 
 
 
 ## App User Guide
