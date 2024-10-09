@@ -464,6 +464,8 @@ By following these steps, you can effectively customize your workout routine usi
 
 In the Vitalit App, the Meal Page is designed to simplify the management of your nutrition by providing personalized meal plans tailored to your needs and preferences. Whether you're focusing on fitness goals, health conditions, or dietary preferences, the Meals feature ensures you have balanced and enjoyable meals throughout the week.
 
+<div id="atmp"></div>
+
 ## Accessing the Meals Page
 
 To access and manage your meals, follow these steps:
@@ -499,6 +501,7 @@ Meals in the Vitalit App are personalized based on several factors to cater to y
 
 By leveraging the Meal Page in the Vitalit App, you can easily maintain a balanced diet and stay on track with your nutrition goals, enhancing your overall wellness journey.
 
+<div id = "md"></div>
 
 ## Meal Details
 
@@ -558,6 +561,8 @@ Upon accessing the Meal Details Page, you will find comprehensive information ab
 
 By following these steps, you can access detailed information about each meal, ensuring you have the necessary ingredients and instructions to prepare delicious and nutritious meals tailored to your preferences and dietary needs.
 
+
+<div id="mp"></div>
 
 ## Meal Personalization
 
@@ -620,6 +625,8 @@ Choose the day of the week to generate a personalized meal plan. By default, all
 
 
 ![Meal-7 image](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/meal-7.jpg)
+
+<div id="fp"></div>
 
 ## Food Preferences by Meal
 
