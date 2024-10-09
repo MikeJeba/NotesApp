@@ -1,8 +1,10 @@
 # Table of Contents
-1. [Signup & Login](#sign) //heading
+1. [Signup & Login](#sign) 
 
-1.1. [Sign up with Google](#google) //subheading
-3. [Sign up with Apple](#apple) //subheading
+1.1. [Sign up with Google](#google)
+
+1.2. [Sign up with Apple](#apple)
+
 4. [Dashboard](#dash) //heading
 5. [Today's Workout](#work) //subheading
 6. [Today's Meal](#meal) //subheading
