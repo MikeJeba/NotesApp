@@ -1,8 +1,6 @@
 # Table of Contents
 1. [Signup & Login](#sign) 
-
 1.1. [Sign up with Google](#google)
-
 1.2. [Sign up with Apple](#apple)
 
 4. [Dashboard](#dash) //heading
