@@ -43,7 +43,6 @@
 
 8. [Setting](#setting) 
 
-
 ## App User Guide
 
 _Last updated: July 23, 2024_
@@ -70,6 +69,7 @@ Welcome to the Vitalit Application, your ultimate tool for managing health and f
 Choose your preferred method to sign in and start your journey towards better health with Vitalit.
 
 <div id="google"></div>
+
 ## Sign Up with Google
 
 
@@ -90,6 +90,7 @@ Signing up using your Google account is quick and secure. Follow these steps to 
    - Once permissions are granted, you will be redirected back to the Dashboard of the Vitalit App with your account successfully created.
 
 <div id="apple"></div>
+
 ## Sign Up with Apple
 
 ![Signup with apple](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/signup.jpg)
@@ -109,6 +110,7 @@ Signing up using your Apple account is simple and secure. Follow these steps to 
    - Once permissions are granted, you will be redirected back to the Dashboard of the Vitalit App with your account successfully created.
 
 <div id="dash"></div>
+
 ## 2. Dashboard
 
 ## Introduction to the Dashboard
@@ -120,11 +122,13 @@ The Dashboard in the Vitalit App serves as your central hub for managing and opt
 Now, let's explore what the Dashboard has to offer and how you can effectively utilize its features to enhance your wellness journey.
 
 <div id="work"></div>
+
 ## Today's Workout
 
 In the **Today's Workout** section, you'll find a list of workouts assigned for the day. Each workout includes details such as the type of exercise, duration, and any specific instructions or notes. By tapping on each workout, you can access further details and guidance. This section helps you stay on track with your fitness routine and ensures you achieve your daily exercise goals.
 
 <div id="meal"></div>
+
 ## Today's Meal
 
 The **Today's Meal** section is organized into five parts, each representing a different meal of the day. This organization helps you manage your nutrition effectively by providing a clear breakdown of your meals and ensuring a balanced diet throughout the day.
@@ -144,7 +148,13 @@ The **Today's Meal** section is organized into five parts, each representing a d
 ### 5. Dinner
 - **View and track your dinner items:** End your day with a satisfying and nutritious meal.
 
+<div id="dashgame"></div>
+
+## Today's Game
+Here introduces five games (2048, Block Drop, Flip Card, Mastermind, Word Wizard) randomely with their rules and rewards after winning the games.
+
 <div id="menu"></div>
+
 ## App Menus
 
 The Dashboard also provides quick access to various parts of the app through the menu options available. These menus help you navigate the app effortlessly and manage different aspects of your fitness and nutrition plan.
@@ -158,6 +168,9 @@ The Dashboard also provides quick access to various parts of the app through the
 ### 3. Home
 - **Return to the main home page:** Quickly navigate back to the main home screen of the app.
 
+### 4. Game
+- **View game page:** Quickly navigate to the game and flip left right to play the desired game in the app.
+
 ### 4. Settings
 - **Access settings for logout:** Manage your account settings, including securely logging out of the app.
 
@@ -165,6 +178,7 @@ The Dashboard also provides quick access to various parts of the app through the
 By using the Dashboard, you can effectively manage your daily fitness and nutrition routines, making it easier to achieve your health goals. 
 
 <div id="workout"></div>
+
 ## 3. Workout
 
 ## Introduction
@@ -387,6 +401,7 @@ This guide explains how to personalize your workout routine using the Vitalit Ap
 By following these steps, you can effectively customize your workout routine using the Vitalit App, making your fitness journey more personalized and enjoyable.
 
 <div id="meal"></div>
+
 ## 4. Meal
 
 ### Introduction to Meals
@@ -595,7 +610,10 @@ Choose the day of the week to generate a personalized meal plan. By default, all
 By following these steps, you can personalize your weekly meal plan effectively, ensuring that each meal meets your nutritional needs and aligns with your dietary preferences and goals.
 
 <div id="game"></div>
-5. Game
+
+## 5. Game
+
+<div id = "2048"></div>
 
 ### 2048
 
@@ -607,6 +625,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 ### Play Screen
 ![2048play](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/2048/2.jpg)
 
+<div id = "block"></div>
+
 ### Block Drop
 
 - **Block Drop**: Rotate and move falling blocks to fit them into the grid. Clear lines to score points. Complete a line to earn the Line Master reward. Keep stacking and strategizing!
@@ -616,6 +636,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 
 ### Play Screen
 ![blockplay](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/block/2.jpeg)
+
+<div id = "flip"></div>
 
 ### Flip Card
 
@@ -627,6 +649,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 ### Play Screen
 ![flipplay](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/flipcard/2.jpg)
 
+<div id = "master"></div>
+
 ### Mastermind
 
 - **Mastermind**: Guess the hidden code by placing colored pegs. Receive feedback with red and white pegs. Crack the code within the allowed turns to earn the Codebreaker Champion reward. Test your logic!
@@ -636,6 +660,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 
 ### Play Screen
 ![masterplay](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/master/2.jpg)
+
+<div id = "word"></div>
 
 ### Word Wizard
 
@@ -647,7 +673,10 @@ By following these steps, you can personalize your weekly meal plan effectively,
 ![wordplay](https://fabulous50s-workout-manger-docs.vercel.app/img/f50_img/word/3.jpeg)
 
 <div id="reward"></div>
-6. Rewards
+
+## 6. Rewards
+
+<div id = "onboard"></div>
 
 ### Onboard Category
 
@@ -658,6 +687,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 - **You're Fabulous!**: Create a custom workout template and personalize it using the "Personalize" button daily. Once the template is saved, you’ll receive the "You're Fabulous" reward.
 
 ![You're](https://fabulous50s-workout-manger-docs.vercel.app/img/reward/badge_2.jpeg)
+
+<div id = "workout"></div>
 
 ### Workout Completion Category
 
@@ -676,6 +707,8 @@ By following these steps, you can personalize your weekly meal plan effectively,
 - **You're on a roll**: Complete your third workout in any workout template on any day to receive the "You're on a Roll" reward, motivating you to keep pushing through your fitness goals.
 
 ![roll](https://fabulous50s-workout-manger-docs.vercel.app/img/reward/badge_5.jpeg)
+
+<div id = "specific"></div>
 
 ### Specific Workout Completion Category
 
